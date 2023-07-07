@@ -1,0 +1,23 @@
+{
+  "name": "leaderboard",
+  "version": "1.0.0",
+  "description": "This project is a JavaScript application for creating a Leaderboard list app. It utilizes webpack and incorporates ES6 features, particularly modules, to enhance the code structure and organization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuriEnciso/Leaderboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuriEnciso/Leaderboard/issues"
+  },
+  "homepage": "https://github.com/RuriEnciso/Leaderboard#readme",
+  "devDependencies": {
+    "hint": "^7.1.10"
+  }
+}
